@@ -1,0 +1,5 @@
+[
+  { "id": 1, "titre": "Faire les courses", "description": "Acheter pain, lait et œufs.", "estTerminee": false },
+  { "id": 2, "titre": "Réviser Express.js", "description": "Lire la documentation officielle et faire des exercices.", "estTerminee": false },
+  { "id": 3, "titre": "Appeler le médecin", "description": "Prendre rendez-vous pour le bilan annuel.", "estTerminee": true }
+]
